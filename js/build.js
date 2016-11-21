@@ -3,4 +3,5 @@
 
 console.log('hello there!');
 
-},{}]},{},[1]);
+},{}]},{},[1])
+//# sourceMappingURL=build.js.map
